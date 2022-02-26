@@ -1,9 +1,10 @@
 
 <h1 align="center"> 前端 Coding </h1>
 
-## ☕️ 每日手写
+## ☕️ 每日一题
 
-- [Day59 实现useRef](#实现useRef)
+- 手写：[实现useRef](#实现useRef)
+- 算法：[目标和](https://leetcode-cn.com/problems/target-sum/)
 
 ## 🧐 框架方向
 
@@ -36,12 +37,11 @@
 - <a href=""> ESLint使用&原理（待更新）</a>
 - <a href=""> SWC使用&原理（待更新）</a>
 - <a href=""> Lerna使用记录（待更新）</a>
-## 🍎 日常问题杂记
-
-
+## 🧑‍💻 日常问题杂记
+待更新
 ## ⛽️ 送给自己的话
 
-满招损、谦受益，做一个快乐、积极向上👆的 Coding Boy。
+满招损、谦受益，做一个快乐、积极向上👆的 Coding Boy👦。
 
 
 
