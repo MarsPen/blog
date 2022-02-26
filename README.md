@@ -1,11 +1,11 @@
 
 <h1 align="center"> 前端 Coding </h1>
 
-## ☕ 每日手写
+## ☕️ 每日手写
 
 - [Day59 实现useRef](#实现useRef)
 
-## 🤔 框架原理
+## 🧐 前端框架方向
 
 🌟 Vue
 - <a href="https://www.studyfe.cn/2019/08/27/vue/vueprinciple/">vue2原理系列-主线流程</a>
@@ -28,6 +28,14 @@
 - <a href="https://www.studyfe.cn/2020/12/12/mini/principle01/">微信小程序-架构原理</a>
 - <a href="https://www.studyfe.cn/2020/12/20/mini/principle02/">微信小程序-启动流程</a>
 - <a href="https://www.studyfe.cn/2021/01/14/mini/principle03/">小程序-框架跨端框架</a>
+
+## 🚗 工程化方向
+- <a href="https://www.studyfe.cn/2019/11/20/webpack/library-webpack01/"> webpack使用&原理</a>
+- <a href=""> Vite使用&原理（待更新</a>
+- <a href=""> Babel使用&原理（待更新）</a>
+- <a href=""> ESLint使用&原理（待更新）</a>
+- <a href=""> SWC使用&原理（待更新）</a>
+- <a href=""> Lerna使用记录（待更新）</a>
 
 
 
