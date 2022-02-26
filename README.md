@@ -5,7 +5,7 @@
 
 - [Day59 实现useRef](#实现useRef)
 
-## 🧐 前端框架方向
+## 🧐 框架方向
 
 🌟 Vue
 - <a href="https://www.studyfe.cn/2019/08/27/vue/vueprinciple/">vue2原理系列-主线流程</a>
@@ -36,6 +36,13 @@
 - <a href=""> ESLint使用&原理（待更新）</a>
 - <a href=""> SWC使用&原理（待更新）</a>
 - <a href=""> Lerna使用记录（待更新）</a>
+## 🍎 日常问题杂记
+
+
+## ⛽️ 送给自己的话
+
+满招损、谦受益，做一个快乐、积极向上👆的 Coding Boy。
+
 
 
 
