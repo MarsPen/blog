@@ -31,8 +31,8 @@
 - <a href="https://www.studyfe.cn/2021/01/14/mini/principle03/">小程序-框架跨端框架</a>
 
 ## 🚗 工程化方向
-- <a href="https://www.studyfe.cn/2019/11/20/webpack/library-webpack01/"> webpack使用&原理</a>
-- <a href=""> Vite使用&原理（待更新</a>
+- <a href="engineering/01-webpack.md"> webpack使用&原理</a>
+- <a href="engineering/02-Vite.md"> Vite使用&原理</a>
 - <a href=""> Babel使用&原理（待更新）</a>
 - <a href=""> ESLint使用&原理（待更新）</a>
 - <a href=""> SWC使用&原理（待更新）</a>
