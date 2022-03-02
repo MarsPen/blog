@@ -1,8 +1,8 @@
 <h1 align="center"> 每日Coding 汇总 </h1>
 
 ## 📖 手写题大纲
-- [Day61 实现forwardRef](#实现forwardRef)
-- [Day60 实现useReducer](#实现useReducer)
+- [Day61 实现 forwardRef](#实现forwardRef)
+- [Day60 实现 useReducer](#实现useReducer)
 - [Day59 实现 useRef](#实现useRef)
 - [Day58 实现 useLayoutEffect](#实现useLayoutEffect)
 - [Day57 实现 useEffect](#实现useEffect)
@@ -23,7 +23,7 @@
 - [Day42 实现 InstanceType](#实现InstanceType)
 - [Day41 实现 Cookie](#实现Cookie)
 - [Day40 实现 render 函数](#实现render)
-- [Day39 实现Vue 3.0 Reactive（reactive 创建响应式对象、effect 副作用、computed 计算属性）](#请实现Vue3.0Reactive)
+- [Day39 实现 Vue 3.0 Reactive（reactive 创建响应式对象、effect 副作用、computed 计算属性）](#请实现Vue3.0Reactive)
 - [Day38 实现返回DOM tree中”左边“的元素](#返回DOMtree中”左边“的元素)
 - [Day37 实现 parseToMoney 千位分隔符](#实现parseToMoney千位分隔符)
 - [Day36 实现 _.chunk()](#实现_.chunk())
