@@ -2,6 +2,13 @@
 <h1 align="center"> 每日Coding 汇总</h1>
 
 ## 📖 算法题大纲
+
+- [Day69 子集](https://leetcode-cn.com/problems/subsets/)
+- [Day68 漂亮数组](https://leetcode-cn.com/problems/beautiful-array/)
+- [Day67 合并K个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/)
+- [Day66 不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/)
+- [Day65 救生艇](https://leetcode-cn.com/problems/boats-to-save-people/)
+- [Day64 无重叠区间](https://leetcode-cn.com/problems/non-overlapping-intervals/) 
 - [Day63 分发饼干](https://leetcode-cn.com/problems/assign-cookies/)
 - [Day62 零钱兑换 II](https://leetcode-cn.com/problems/coin-change-2/)
 - [Day61 目标和](https://leetcode-cn.com/problems/target-sum/)
