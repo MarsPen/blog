@@ -63,7 +63,7 @@
 - [Day04 实现 Object.is()](#实现Object.is())
 - [Day03 实现 Promise.allSettled()](#实现Promise.allSettled())
 - [Day02 实现 symbol polyfill](#实现symbolpolyfill)
-- [Day01 手写函数柯里化](#https://github.com/MarsPen/bigfrontend/issues/1)
+- [Day01 手写函数柯里化](https://github.com/MarsPen/bigfrontend/issues/1)
 
 
 
