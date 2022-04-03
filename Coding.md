@@ -57,12 +57,12 @@
 - [Day10 实现 Promise.race()](#实现Promise.race())
 - [Day09 实现 Promise.any()](#实现Promise.any())
 - [Day08 实现一个可以拖拽的DIV](#实现一个可以拖拽的DIV)
-- [Day07 实现一个 Event Emitter](#实现一个EventEmitter)
-- [Day06 实现 Object.create](#实现Object.create)
-- [Day05 请计算出时钟的时针和分针的角度（两个角度的较小者，四舍五入）。时间以HH:mm的格式传入](#请计算出时钟的时针和分针的角度)
-- [Day04 实现 Object.is()](#实现Object.is())
-- [Day03 实现 Promise.allSettled()](#实现Promise.allSettled())
-- [Day02 实现 symbol polyfill](#实现symbolpolyfill)
+- [Day07 实现一个 Event Emitter](https://github.com/MarsPen/bigfrontend/issues/8)
+- [Day06 实现 Object.create](https://github.com/MarsPen/bigfrontend/issues/7)
+- [Day05 请计算出时钟的时针和分针的角度](https://github.com/MarsPen/bigfrontend/issues/5)
+- [Day04 实现 Object.is()](https://github.com/MarsPen/bigfrontend/issues/4)
+- [Day03 实现 Promise.allSettled()](https://github.com/MarsPen/bigfrontend/issues/3)
+- [Day02 实现 symbol polyfill](https://github.com/MarsPen/bigfrontend/issues/2)
 - [Day01 手写函数柯里化](https://github.com/MarsPen/bigfrontend/issues/1)
 
 
