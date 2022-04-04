@@ -2,8 +2,8 @@
 
 ## ☕️ 每日一题
 
-- [手写大纲](Coding.md)
-- [算法大纲](Algorithm.md)
+- [手写大纲](coding.md)
+- [算法大纲](algorithm.md)
 
 ## 🧐 框架方向
 
