@@ -9,7 +9,7 @@
 
 **➡️ Vue专题**
 
-- <a href="https://www.studyfe.cn/2019/08/27/vue/vueprinciple/">vue2原理系列-主线流程</a>
+- <a href="vue/01-vue2框架流程.md">vue2原理系列-框架流程</a>
 - <a href="https://www.studyfe.cn/2019/09/05/vue/vueobserve/">vue2原理系列-响应式</a>
 - <a href="https://www.studyfe.cn/2019/09/18/vue/vuecomupdate/">vue2原理系列-组件更新</a>
 - <a href="https://www.studyfe.cn/2019/09/19/vue/vuecompile/">vue2原理系列-编译解析</a>
