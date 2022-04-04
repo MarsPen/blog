@@ -57,13 +57,13 @@
 - [Day10 实现 Promise.race()](#实现Promise.race())
 - [Day09 实现 Promise.any()](#实现Promise.any())
 - [Day08 实现一个可以拖拽的DIV](#实现一个可以拖拽的DIV)
-- [Day07 实现一个 Event Emitter](https://github.com/MarsPen/bigfrontend/issues/8)
-- [Day06 实现 Object.create](https://github.com/MarsPen/bigfrontend/issues/7)
-- [Day05 请计算出时钟的时针和分针的角度](https://github.com/MarsPen/bigfrontend/issues/5)
-- [Day04 实现 Object.is()](https://github.com/MarsPen/bigfrontend/issues/4)
-- [Day03 实现 Promise.allSettled()](https://github.com/MarsPen/bigfrontend/issues/3)
-- [Day02 实现 symbol polyfill](https://github.com/MarsPen/bigfrontend/issues/2)
-- [Day01 手写函数柯里化](https://github.com/MarsPen/bigfrontend/issues/1)
+- [Day07 实现一个 Event Emitter](https://github.com/MarsPen/blog/issues/8)
+- [Day06 实现 Object.create](https://github.com/MarsPen/blog/issues/7)
+- [Day05 请计算出时钟的时针和分针的角度](https://github.com/MarsPen/blog/issues/5)
+- [Day04 实现 Object.is()](https://github.com/MarsPen/blog/issues/4)
+- [Day03 实现 Promise.allSettled()](https://github.com/MarsPen/blog/issues/3)
+- [Day02 实现 symbol polyfill](https://github.com/MarsPen/blog/issues/2)
+- [Day01 手写函数柯里化](https://github.com/MarsPen/blog/issues/1)
 
 
 
