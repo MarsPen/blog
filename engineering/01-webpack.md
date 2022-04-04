@@ -39,7 +39,7 @@ const webpackConfig = {
 
 ### 📖 HMR 原理 
 
-<img src="/assets/webpack-hmr.jpg">
+<img src="/assets/webpack-hmr.jpg"></img>
 
 - webpack 对文件系统进行 watch 打包到内存中：（webpack-dev-middleware 调用 webpack 的 api 对文件系统 watch，当文件发生变化的时候重新进行打包，然后保存到内存中），dev 环境不生成不生成文件的原因就在于访问内存中的代码比访问文件系统中的文件更快，而且也减少了代码写入文件的开销，这一切都归功于memory-fs，memory-fs 是 webpack-dev-middleware 的一个依赖库
 - devServer 通知浏览器端文件发生改变 (sockjs 是桥梁)： webpack-dev-server 调用 webpack api 监听 compile的 done 事件，当compile 完成后，webpack-dev-server通过 _sendStatus 方法将编译打包后的新模块 hash 值发送到浏览器端。
@@ -63,7 +63,7 @@ webpack 通过 Tapable 来组织这条复杂的生产线。 webpack 在运行过
 
 下面我们通过流程图来对 webpack 的执行流程作出分析
 
-<img src="/assets/webpack.png"></img>
+<img src="/assets/webpack-process.png"></img>
 
 
 - 首先读取 webpack.config.js 文件，初始化本次构建的配置参数
@@ -311,7 +311,7 @@ const webpackConfig = {
 
 ### 📖 webpack优化
 
-<img src="/assets/webpack.jpg">
+<img src="/assets/webpack-optimization.jpg">
 
 ## 参考文章
 <a href="https://github.com/gwuhaolin/dive-into-webpack/">深入浅出 webpack </a>

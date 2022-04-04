@@ -21,7 +21,7 @@
 - <a href="https://www.studyfe.cn/2019/10/01/react/library-react-jsx/">react原理系列-jsx 转换</a>
 - <a href="https://www.studyfe.cn/2019/10/02/react/library-react-lifecycle/">react原理系列-生命周期使用</a>
 - <a href="https://www.studyfe.cn/2019/10/04/react/library-react-fiber01/">react原理系列-fiberRoot 构建过程</a>
-- <a href="https://www.studyfe.cn/2019/10/06/react/library-react-fiber02/">react原理系列-riber 调度过程</a>
+- <a href="https://www.studyfe.cn/2019/10/06/react/library-react-fiber02/">react原理系列-fiber 调度过程</a>
 - <a href="https://www.studyfe.cn/2019/10/09/react/library-react-state/">react原理系列-setState</a>
 - <a href="https://www.studyfe.cn/2019/11/09/react/library-react-hook/">react原理系列-hooks</a>
 
@@ -31,13 +31,14 @@
 - <a href="https://www.studyfe.cn/2021/01/14/mini/principle03/">小程序-框架跨端框架</a>
 
 
+**➡️ TypeScript 专题**
+
+待更新
+
 **➡️ Flutter 专题**
 
 待更新
 
-**➡️ TypeScript 专题**
-
-待更新
 ## 🚗 工程化方向
 
 **➡️ webpack 专题**
