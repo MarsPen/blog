@@ -63,7 +63,7 @@ webpack 通过 Tapable 来组织这条复杂的生产线。 webpack 在运行过
 
 下面我们通过流程图来对 webpack 的执行流程作出分析
 
-<img src="/assets/webpack-process.png"></img>
+<img src="/assets/webpack-process.jpg"></img>
 
 
 - 首先读取 webpack.config.js 文件，初始化本次构建的配置参数
