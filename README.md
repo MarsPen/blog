@@ -31,9 +31,9 @@
 - <a href="https://www.studyfe.cn/2019/11/09/react/library-react-hook/">react原理系列-hooks</a>
 
 **➡️ 小程序专题**
-- <a href="https://www.studyfe.cn/2020/12/12/mini/principle01/">微信小程序-架构原理</a>
-- <a href="https://www.studyfe.cn/2020/12/20/mini/principle02/">微信小程序-启动流程</a>
-- <a href="https://www.studyfe.cn/2021/01/14/mini/principle03/">小程序-框架跨端框架</a>
+- <a href="mini/01-架构原理.md">微信小程序-架构原理</a>
+- <a href="mini.02-运行机制.md">微信小程序-启动流程</a>
+- <a href="mini/03-跨端框架及原理.md">小程序-框架跨端及原理</a>
 
 
 **➡️ TypeScript 专题**
