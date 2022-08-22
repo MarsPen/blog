@@ -16,7 +16,7 @@ Fiber 的中文解释是纤程，是线程的颗粒化的一个概念。也就�
 
 ## 创建 FiberRoot<hr>
 
-下面我们就 FiberRoot 的创建来开始我们的这篇文章，我们在 <a href="https://www.studyfe.cn/2019/10/01/react/library-react-jsx/">jsx</a> 转换的时候介绍过 jsx 主要是在编译的时候通过 React.createElement 这个函数进行转换的，那么转换后的代码会在 ReactDOM.render 中进行执行，首先我们看一下 ReactDOM.render 的执行函数，定义在文件 `packages/react-dom/src/client/ReactDOM.js` 中
+下面我们就 FiberRoot 的创建来开始我们的这篇文章，我们在 <a href="01-createElement 构建元素对象.md">jsx</a> 转换的时候介绍过 jsx 主要是在编译的时候通过 React.createElement 这个函数进行转换的，那么转换后的代码会在 ReactDOM.render 中进行执行，首先我们看一下 ReactDOM.render 的执行函数，定义在文件 `packages/react-dom/src/client/ReactDOM.js` 中
 
 ```js
 const ReactDOM: Object = {
