@@ -7,3 +7,4 @@
 - [0819 BFF 相关](https://github.com/MarsPen/blog/blob/main/Interview/0819.md)
 - [0822 memo/useMemo/useCallback 相关](https://github.com/MarsPen/blog/blob/main/Interview/0822.md)
 - [0823 webpack 优化相关](https://github.com/MarsPen/blog/blob/main/Interview/0823.md)
+- [0824 react 状态库比较](https://github.com/MarsPen/blog/blob/main/Interview/0824.md)
