@@ -10,3 +10,5 @@
 - [0824 react 状态库比较](https://github.com/MarsPen/blog/blob/main/Interview/0824.md)
 - [0825 算法-不同二叉搜索树](https://github.com/MarsPen/blog/blob/main/Interview/0825.md)
 - [0826 最近出色的项目](https://github.com/MarsPen/blog/blob/main/Interview/0826.md)
+- [0829 最近出色的项目](https://github.com/MarsPen/blog/blob/main/Interview/0829.md)
+- [0830 最近出色的项目](https://github.com/MarsPen/blog/blob/main/Interview/0830.md)
